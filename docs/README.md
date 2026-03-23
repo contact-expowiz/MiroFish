@@ -1,6 +1,6 @@
-# MiroFish documentation (English)
+# MiroFish documentation
 
-This folder contains detailed guides beyond the project [README-EN.md](../README-EN.md).
+This directory holds detailed guides that go beyond the project overview in [README-EN.md](../README-EN.md).
 
 ## Guides
 
@@ -9,6 +9,8 @@ This folder contains detailed guides beyond the project [README-EN.md](../README
 | [WORKFLOW.md](./WORKFLOW.md) | End-to-end pipeline from seed upload to report and optional agent interview |
 | [CONFIGURATION.md](./CONFIGURATION.md) | Environment variables, Flask settings, and tuning knobs |
 | [API.md](./API.md) | REST API reference with `curl` and JSON examples |
+
+A Chinese archive of this index is kept at [archive/README.zh.md](./archive/README.zh.md).
 
 ## Conventions
 

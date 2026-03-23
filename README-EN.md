@@ -176,6 +176,14 @@ Reads `.env` from root directory by default, maps ports `3000 (frontend) / 5001 
 
 > Mirror address for faster pulling is provided as comments in `docker-compose.yml`, replace if needed.
 
+## Documentation
+
+Detailed English guides with examples live under [`docs/`](./docs/README.md):
+
+- [Workflow (end-to-end pipeline)](./docs/WORKFLOW.md)
+- [REST API (`curl` and JSON)](./docs/API.md)
+- [Configuration (environment variables and tuning)](./docs/CONFIGURATION.md)
+
 ## 📬 Join the Conversation
 
 <div align="center">
